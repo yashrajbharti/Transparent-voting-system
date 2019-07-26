@@ -24,4 +24,5 @@ Elliptical curve cryptography or ECC is used to create these votes. ECC is a for
   
 **My Concept :** During voter registration the voter creates 2 ECC key pairs, the voter reveals their identity to a verifier who certifies the first key pair, once that's done the voter registers their second key pair anonymously as belonging to their first pair, then the voter cast their virtual ballot and signs up on the vote with their private key. Once the voter is done, anyone can verify whether the signature is valid or not and make sure that none of the votes have been tampered with. All votes can be verified by using voters public keys to see if they came from a legitmate candidate and that's how the blockchain can help create more secure, transparent and cost-effective votes. The blockchain could help amplify the voices of the people by giving them an easier and better way to vote.  
   
-![](http://www.upl.co/uploads/Screenshot20190726190232011564148021.jpg)  
+![](http://www.upl.co/uploads/Screenshot20190726190232011564148021.jpg)    
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
